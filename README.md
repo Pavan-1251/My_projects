@@ -32,7 +32,7 @@ A decentralized voting application built with Ethereum smart contracts and React
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone (https://github.com/Pavan-1251/My_projects.git)
    cd Trust-Vote
    ```
 
