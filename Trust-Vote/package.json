@@ -1,0 +1,14 @@
+{
+  "name": "trust-vote",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> <h1>Trust Vote</h1>",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+  
+  
+}
